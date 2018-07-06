@@ -22,18 +22,18 @@ Export the data (tables) using [tabula](https://tabula.technology/) and store it
 
 And then do a simple analysis for simple stats like:
 * age
-** average age of each national team
-** max (oldest), min (youngest)
-** age distribution
+..* average age of each national team
+..* max (oldest), min (youngest)
+..* age distribution
 * height
-** average height of each team
-** max (tallest), min (shortest)
+..* average height of each team
+..* max (tallest), min (shortest)
 * bmi 
-** of each player (mass/height^2)
-** average of team 
-** max (fattest), min(lightest)
-** bmi distribution
-** bmi distribution by position (GK, DF, MF, FW)
+..* of each player (mass/height^2)
+..* average of team 
+..* max (fattest), min(lightest)
+..* bmi distribution
+..* bmi distribution by position (GK, DF, MF, FW)
 
 * How many players play in domestic league per team
 
@@ -43,16 +43,16 @@ And then do a simple analysis for simple stats like:
 
 * Possible expansions (need merge with other datasets):
 
-** birthday paradox! (?)
--per match ? (what is the chance in 22 players to have the same birthday! - verify theoritical vs observation (group matches))
+..* birthday paradox! (?)
+... per match ? (what is the chance in 22 players to have the same birthday! - verify theoritical vs observation (group matches))
 (needs group matches info)
 
-** panini misses! 
+..* panini misses! 
 who are the players that panini missed or wrongly included?
 (needs panini album dataset - can be found [here (?)](https://www.cardboardconnection.com/2018-panini-world-cup-stickers-russia)
 
-** Team power ranking according to club ranking
+..* Team power ranking according to club ranking
 (needs club world ranking data)
 
-** Team value 
+..* Team value 
 [already here](https://www.transfermarkt.com/weltmeisterschaft-2018/startseite/pokalwettbewerb/WM18)
