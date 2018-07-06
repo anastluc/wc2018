@@ -1,0 +1,40 @@
+Taken from blog post ideas:
+---
+
+get the players data from fifa world cup 2018
+https://img.fifa.com/image/upload/qcuxk3y7c1ezwo5yylnn.pdf
+
+and do a simple analysis 
+simple stats like:
+*age
+-average age of each national team
+-max (oldest), min (youngest)
+- age distribution
+*height
+-average height of each team
+-max (tallest), min (shortest)
+*bmi 
+-of each player (mass/height^2)
+-average of team 
+-max (fattest), min(lightest)
+-bmi distribution
+-bmi distribution by position (GK, DF, MF, FW)
+*how many players play in domestic league per team
+*club representation
+
+Expansions (need merge with other dataset)
+---
+birthday paradox! (?)
+-per match ? (what is the chance in 22 players to have the same birthday! - verify theoritical vs observation (group matches))
+(needs group matches info)
+
+panini misses! 
+who are the players that panini missed or wrongly included?
+(needs panini album dataset - can be found here (?) https://www.cardboardconnection.com/2018-panini-world-cup-stickers-russia)
+
+Team power ranking according to club ranking
+(needs club world ranking data)
+
+Team value 
+(already there)
+(https://www.transfermarkt.com/weltmeisterschaft-2018/startseite/pokalwettbewerb/WM18)
